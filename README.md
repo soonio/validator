@@ -3,5 +3,5 @@
 ## Install
 
 ```bash
-go get - u github.com/soonio/validator
+go get -u github.com/soonio/validator
 ```
